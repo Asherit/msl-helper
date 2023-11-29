@@ -1,2 +1,2 @@
-# タイタン -Bot
+# タイタン - Bot
 Monster Super League AutoIT Bot
